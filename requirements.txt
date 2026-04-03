@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+kaleido
+PyPDF2
+Pillow
+openpyxl
+python-dateutil

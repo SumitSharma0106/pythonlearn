@@ -1,2 +1,5 @@
-"# pythonlearn" 
-pip install streamlit pandas plotly kaleido PyPDF2 pillow openpyxl python-dateutil
+Planned vs Delivered Streamlit app
+
+Run locally:
+pip install -r requirements.txt
+streamlit run app.py
